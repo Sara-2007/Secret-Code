@@ -203,4 +203,3 @@ elif(options.lower() == "decrypt" or options.lower() == "d"):
   print(''.join([decryptlang[v] for v in decrypt]))
 else:
   print("Sorry try again later!")
-print('A' < 'B')
